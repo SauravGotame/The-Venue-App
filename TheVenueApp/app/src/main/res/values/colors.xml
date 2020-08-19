@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name= "ActionBarBackground" >#5DCBE1</color>
+    <color name= "ActionBar" >#DE1AD2</color>
+    <color name= "colorBlack" >#000000</color>
+    <color name= "colorYellow" >#fffdd0</color>
+    <color name= "colorLightGrey" >#a7a8aa</color>
+    <color name= "colorLightWhite" >#e8e9ed</color>
+    <color name= "colorOverLay" >#7f333639</color>
+    <color name= "colorActionBar" >#0e0d0e</color>
+</resources>

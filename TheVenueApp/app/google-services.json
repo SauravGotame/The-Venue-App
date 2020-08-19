@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "15120405485",
+    "firebase_url": "https://androidvenue-1e87b.firebaseio.com",
+    "project_id": "androidvenue-1e87b",
+    "storage_bucket": "androidvenue-1e87b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15120405485:android:15aa9977d4755a3a",
+        "android_client_info": {
+          "package_name": "e.sauravgt.thevenueapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15120405485-u5l8lgouag6eh9ord50mu7v3htfkgf3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.sauravgt.thevenueapp",
+            "certificate_hash": "ac2a489bef5536ee9824b11122b33ac6cbae7af2"
+          }
+        },
+        {
+          "client_id": "15120405485-1pokn2iscsh1s8itjft2n7mtp8gtobh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpjYR6iG4CvSNwnfCGK5rwUXbqAGtXB94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15120405485-1pokn2iscsh1s8itjft2n7mtp8gtobh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

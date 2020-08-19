@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/ic_cake_black_24dp"
+            android:iconTint="@android:color/holo_purple"
+            android:title="Main Page" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:iconTint="@android:color/holo_purple"
+            android:title="Your Choices"/>
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_av_timer_black_24dp"
+            android:iconTint="@android:color/holo_purple"
+            android:title="Booking Status"/>
+        <item
+            android:id="@+id/nav_pay"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:iconTint="@android:color/holo_purple"
+            android:title="Pay"/>
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:iconTint="@android:color/holo_purple"
+            android:title="Sign Out"/>
+
+
+
+    </group>
+
+
+</menu>

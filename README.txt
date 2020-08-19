@@ -1,0 +1,3 @@
+- The "TheVenueApp" is the folder for the Android Sudio project. Please ensure you run the gradle before trying it in an emulator.
+-The "Braintree" folder is the one with braintree sdk and the php files. It needs to be pasted inside the htdocs folder in XAMPP. 
+-TheVenueSQL is a file for SQLite.
